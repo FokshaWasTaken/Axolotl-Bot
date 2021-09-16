@@ -1,0 +1,17 @@
+{
+  "name": "Axolotl base",
+  "version": "1.0.0",
+  "description": "Axolotl Bot made by Foksha",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Foksha",
+  "dependencies": {
+    "better-sqlite3": "^7.0.1",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.7.1",
+    "esm": "^3.2.25",
+    "node-fetch": "github:node-fetch/node-fetch#1.x"
+  }
+}

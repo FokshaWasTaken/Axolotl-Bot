@@ -1,6 +1,6 @@
 # Axolotl Bot
 
-Axolotl Bot is a Discord Bot that shows Axolotl pics with facts about them using a public API and discord.js.
+Axolotl Bot is a Discord Bot that shows pet pics with some pets including facts about them using public APIs and discord.js.
 
 ## Installation
 

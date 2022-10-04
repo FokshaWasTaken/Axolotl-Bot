@@ -1,3 +1,7 @@
+[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)]()
+
+This project is currently ***discontinued***, we will continue providing help for the time being but there will be no work on it until further notice!
+
 # Axolotl Bot
 
 Axolotl Bot is a Discord Bot that shows pet pics with some pets including facts about them using public APIs and discord.js.
